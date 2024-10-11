@@ -1,6 +1,6 @@
 # Animated Clock
 
-This is an animated clock that is created in a react native framework. The whole point of this project is literally JUST a clock. Trust me. Shows only a simple moving clock, that are moving according to the time.
+This is an animated clock that is created in a react native framework. The whole point of this project is literally JUST a clock. Trust me. Shows only a simple moving clock according to the current time.
 
 <img width="317" alt="Screenshot 2024-10-11 at 10 03 13" src="https://github.com/user-attachments/assets/249b3794-2e10-429e-b062-6cf3edfa2165">
 

@@ -44,7 +44,7 @@ yarn ios
 
 ## To build the app
 
-This is a way to create a APK so you can bring this "cute" clock anywhere
+This is a way to create a APK so you can bring this "cute" clock anywhere (only android... for now)
 
 #### For Android
 

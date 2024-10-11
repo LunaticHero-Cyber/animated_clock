@@ -7,11 +7,14 @@
     "ios": "react-native run-ios",
     "lint": "eslint .",
     "start": "react-native start",
+    "android:build": "react-native run-android",
+    "build": "cd android && ./gradlew assembleRelease",
     "test": "jest"
   },
   "dependencies": {
     "react": "18.3.1",
-    "react-native": "0.75.4"
+    "react-native": "0.75.4",
+    "react-native-anchor-point": "^1.0.6"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
